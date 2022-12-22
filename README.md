@@ -8,6 +8,3 @@ Using Apache Spark (Scala or Python), get the following report:
 |-- Next Payment Rate: double (nullable = true) - next record(bigger) payment rate for vendor
 |-- Max Payment Rate: double (nullable = true) - max payment rate for vendor
 |-- Percents to next rate: string (nullable = true) - how many points (in percents) is necessary to achieve the next record payment rate
-
-Gather your results in json or csv and send via python/scala function to avenga.academy@avenga.com. Additionally, send an explanation of
-your solution and link on GitHub.
